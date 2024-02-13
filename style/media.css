@@ -205,6 +205,15 @@
         width: 185px;
         height: 243px;
     }
+    .footer__links-logo {
+        margin-bottom: 20px;
+    }
+    .footer__links-heading {
+        margin-bottom: 20px;
+    }
+    .footer__link_margin-top-bottom {
+        margin: 20px 0;
+    }
 
     .span__gap {
         flex-direction: column;
